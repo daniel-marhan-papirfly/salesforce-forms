@@ -1,0 +1,9 @@
+id: FirstName
+label: 'First name'
+help_text:
+type: textfield
+pattern: '^[^\d]{0,40}$'
+pattern_hint: 'No digits allowed. Max 40 characters.'
+maxlength: 40
+api_name: first_name
+#api_object: contactPerson

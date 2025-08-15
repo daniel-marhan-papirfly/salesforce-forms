@@ -1,0 +1,21 @@
+genericCase:
+  orderCase:
+    subject: ''
+    description: ''
+    origin: ''
+    orderNumber: ''
+    consentMachineTranslation: ''
+    customer:
+      FirstName: ''
+      LastName: ''
+      Email: ''
+      Phone: ''
+      Company: ''
+    caseItem: []
+genericLead:
+  leadFormName: ''
+  utmSource: ''
+  utmMedium: ''
+  utmCampaign: ''
+  utmTerm: ''
+  utmContent: ''

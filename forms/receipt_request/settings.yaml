@@ -1,0 +1,11 @@
+label: RECEIPT REQUEST
+allowed_sites:
+  - us
+fields:
+  quick_name:
+    required: TRUE
+  quick_email:
+    required: TRUE
+  quick_phone:
+    required: TRUE
+

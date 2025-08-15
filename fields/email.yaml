@@ -1,0 +1,7 @@
+id: email
+label: 'Email'
+help_text:
+type: email
+api_name: email
+api_object: company
+maxlength: 80
