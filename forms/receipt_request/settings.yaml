@@ -1,6 +1,6 @@
-label: RECEIPT REQUEST
-allowed_sites:
-  - us
+label: 'RECEIPT REQUEST'
+endpoint: 'genericCase'
+allowed_sites: ['US']
 fields:
   quick_name:
     required: TRUE
