@@ -6,4 +6,4 @@ type: textfield
 #pattern_hint: 'No digits allowed. Max 40 characters.'
 maxlength: 80
 api_name: SuppliedName
-#api_object: contactPerson
+api_object: contactPerson
