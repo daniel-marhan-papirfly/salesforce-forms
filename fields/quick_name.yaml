@@ -1,6 +1,6 @@
 id: quick_name
 label: 'Quick Name'
-help_text:
+#help_text:
 type: textfield
 #pattern: '^[^\d]{0,40}$'
 #pattern_hint: 'No digits allowed. Max 40 characters.'
