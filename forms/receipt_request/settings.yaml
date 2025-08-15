@@ -3,4 +3,4 @@ endpoint: 'genericCase'
 allowed_sites: ['US']
 fields:
   quick_name:
-    required: TRUE
+    required: true
