@@ -4,8 +4,3 @@ allowed_sites: ['US']
 fields:
   quick_name:
     required: TRUE
-  quick_email:
-    required: TRUE
-  quick_phone:
-    required: TRUE
-
