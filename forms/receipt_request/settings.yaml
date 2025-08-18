@@ -1,6 +1,7 @@
-label: 'RECEIPT REQUEST'
+label: Receipt Request
 endpoint: 'genericCase'
-allowed_sites: ['US']
+allowed_sites:
+  - us
 fields:
   quick_name:
     required: true

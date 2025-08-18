@@ -1,0 +1,6 @@
+id: companyCompanyName
+label: 'Name'
+help_text:
+type: textfield
+api_name: companyName
+api_object: company

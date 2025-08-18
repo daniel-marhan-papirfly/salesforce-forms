@@ -1,0 +1,36 @@
+label: White Paper
+endpoint: 'genericLead'
+allowed_sites:
+  - us
+fields:
+  customerBusinessUnit:
+    required: TRUE
+  leadSource:
+    required: TRUE
+    default_value: 'Website'
+  leadFormName:
+    required: TRUE
+    default_value: 'White Paper Form'
+  salesTypeCardSales:
+    required: TRUE
+    default_value: TRUE
+  countryCode:
+    not_submittable: TRUE
+    default_value: 'SE'
+  companyCompanyName:
+    required: TRUE
+    label: 'Company name'
+    maxlength: 255
+  companyCompanyNumber:
+    required: TRUE
+  contactPersonFirstName:
+    required: TRUE
+  contactPersonLastName:
+    required: TRUE
+  contactPersonEmail:
+    required: TRUE
+  contactPersonMobilePhone:
+    required: TRUE
+    telprefix_prefix_by_field: countryCode # countryCode - helper field to set country code.
+  numberOfLightTrucksVans:
+    required: TRUE

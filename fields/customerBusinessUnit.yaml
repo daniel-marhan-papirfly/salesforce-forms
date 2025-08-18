@@ -1,0 +1,6 @@
+id: customerBusinessUnit
+label: 'Business Unit'
+help_text:
+type: hidden
+api_name: businessUnit
+api_object: customer
