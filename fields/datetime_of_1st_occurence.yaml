@@ -1,0 +1,5 @@
+id: datetime_of_1st_occurence
+label: 'Date & Time of 1st Occurence'
+help_text:
+type: date
+api_name: Date_Time_of_1st_Occurence__c

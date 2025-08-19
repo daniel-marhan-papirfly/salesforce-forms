@@ -5,3 +5,10 @@ allowed_sites:
 fields:
   quick_name:
     required: true
+  quick_email:
+    required: true
+  quick_phone:
+    required: true
+  datetime_of_1st_occurence:
+    required: true
+    

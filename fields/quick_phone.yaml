@@ -1,0 +1,5 @@
+id: quick_phone
+label: 'Quick Phone'
+type: textfield
+maxlength: 40
+api_name: SuppliedPhone
