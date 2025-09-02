@@ -3,6 +3,8 @@ endpoint: 'genericCase'
 allowed_sites:
   - us
 fields:
+  customerBusinessUnit:
+    required: TRUE
   quick_name:
     required: true
   quick_email:
