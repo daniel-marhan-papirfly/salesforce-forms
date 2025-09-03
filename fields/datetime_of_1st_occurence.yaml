@@ -1,5 +1,4 @@
 id: datetime_of_1st_occurence
-label: 'Date & Time of 1st Occurence'
-help_text:
+label: 'Date/Time of 1st Occurrence'
 type: datetime
-api_name: Date_Time_of_1st_Occurence__c
+api_name: datetime_of_1st_occurence

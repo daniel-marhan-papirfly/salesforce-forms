@@ -1,5 +1,4 @@
 id: quick_email
 label: 'Quick Email'
 type: email
-maxlength: 80
-api_name: SuppliedEmail
+api_name: quick_email
