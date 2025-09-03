@@ -1,10 +1,16 @@
-label: Receipt Request
+label: RECEIPT REQUEST
 endpoint: 'genericCase'
 allowed_sites:
   - us
 fields:
   customerBusinessUnit:
     required: TRUE
+  leadSource:
+    required: TRUE
+    default_value: 'Website'
+  leadFormName:
+    required: TRUE
+    default_value: 'RECEIPT REQUEST'
   quick_name:
     required: true
   quick_email:
