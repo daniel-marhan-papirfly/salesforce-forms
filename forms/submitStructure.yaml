@@ -1,18 +1,17 @@
 genericCase:
-  orderCase:
-    subject: ''
-    description: ''
-    origin: ''
-    orderNumber: ''
-    consentMachineTranslation: ''
-    quick_name: ''
-    quick_email: ''
-    quick_phone: ''
-    datetime_of_1st_occurence: ''
-    customerBusinessUnit: ''
-    leadSource: ''
-    leadFormName: ''
-    caseItem: []
+  subject: ''
+  description: ''
+  origin: ''
+  orderNumber: ''
+  consentMachineTranslation: ''
+  quick_name: ''
+  quick_email: ''
+  quick_phone: ''
+  datetime_of_1st_occurence: ''
+  customerBusinessUnit: ''
+  leadSource: ''
+  leadFormName: ''
+  caseItem: []
 genericLead:
   leadFormName: ''
   utmSource: ''
