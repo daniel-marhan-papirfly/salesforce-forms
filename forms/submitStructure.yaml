@@ -5,12 +5,13 @@ genericCase:
     origin: ''
     orderNumber: ''
     consentMachineTranslation: ''
-    customer:
-      FirstName: ''
-      LastName: ''
-      Email: ''
-      Phone: ''
-      Company: ''
+    quick_name: ''
+    quick_email: ''
+    quick_phone: ''
+    datetime_of_1st_occurence: ''
+    customerBusinessUnit: ''
+    leadSource: ''
+    leadFormName: ''
     caseItem: []
 genericLead:
   leadFormName: ''
