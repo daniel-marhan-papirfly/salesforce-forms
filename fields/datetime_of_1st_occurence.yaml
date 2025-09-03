@@ -2,3 +2,4 @@ id: datetime_of_1st_occurence
 label: 'Date/Time of 1st Occurrence'
 type: datetime
 api_name: datetime_of_1st_occurence
+data-submit-format: 'Y-m-d\TH:i:s\Z'
