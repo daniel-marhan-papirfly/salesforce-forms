@@ -1,0 +1,4 @@
+id: record_type
+label: 'Record Type'
+type: hidden
+api_name: record_type

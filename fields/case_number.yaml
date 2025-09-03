@@ -1,0 +1,4 @@
+id: case_number
+label: 'Case Number'
+type: textfield
+api_name: case_number

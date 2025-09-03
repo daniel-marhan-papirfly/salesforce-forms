@@ -1,0 +1,4 @@
+id: case_origin
+label: 'Case Origin'
+type: hidden
+api_name: case_origin

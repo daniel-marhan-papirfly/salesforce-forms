@@ -3,4 +3,3 @@ label: 'Quick Name'
 type: textfield
 maxlength: 80
 api_name: quick_name
-

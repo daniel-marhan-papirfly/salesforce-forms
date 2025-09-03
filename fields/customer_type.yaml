@@ -1,0 +1,4 @@
+id: customer_type
+label: 'Customer Type'
+type: hidden
+api_name: customer_type

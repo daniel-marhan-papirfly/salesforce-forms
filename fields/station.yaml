@@ -1,0 +1,4 @@
+id: station
+label: 'Station'
+type: textfield
+api_name: station

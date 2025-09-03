@@ -1,0 +1,4 @@
+id: case_category
+label: 'Case Category'
+type: hidden
+api_name: case_category

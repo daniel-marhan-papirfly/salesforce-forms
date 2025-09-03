@@ -3,20 +3,36 @@ endpoint: 'genericCase'
 allowed_sites:
   - us
 fields:
-  customerBusinessUnit:
-    required: TRUE
-  leadSource:
-    required: TRUE
-    default_value: 'Website'
-  leadFormName:
+  topic:
     required: TRUE
     default_value: 'RECEIPT REQUEST'
+  subject:
+    required: TRUE
+    default_value: 'RECEIPT REQUEST'
+  record_type:
+    required: TRUE
+    default_value: 'Feedback & Complaints'
   quick_name:
     required: true
   quick_email:
     required: true
   quick_phone:
     required: true
+  case_category:
+    required: TRUE
+    default_value: 'Station'
+  case_subcategory:
+    required: TRUE
+    default_value: 'Receipt request'
   datetime_of_1st_occurence:
     required: true
-
+  customer_type:
+    required: TRUE
+    default_value: 'B2C'
+  case_number:
+    required: true
+  station:
+    required: true
+  case_origin:
+    required: TRUE
+    default_value: 'Web'
