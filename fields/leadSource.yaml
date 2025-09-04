@@ -1,6 +1,0 @@
-id: leadSource
-label: 'Card Sales'
-help_text:
-type: hidden
-api_name: leadSource
-api_object: null

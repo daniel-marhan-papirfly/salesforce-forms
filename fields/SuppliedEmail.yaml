@@ -1,6 +1,0 @@
-id: quick_email
-label: 'Quick Email'
-help_text:
-type: email
-api_name: SuppliedEmail
-maxlength: 80

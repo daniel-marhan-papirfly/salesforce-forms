@@ -1,9 +1,0 @@
-id: contactPersonEmail
-label: 'Email'
-help_text:
-type: email
-pattern: '[a-zA-Z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}'
-pattern_hint: 'Provide a valid email address. Max 80 characters.'
-maxlength: 80
-api_name: email
-api_object: contactPerson

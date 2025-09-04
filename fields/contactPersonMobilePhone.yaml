@@ -1,9 +1,0 @@
-id: contactPersonMobilePhone
-label: 'Mobile phone'
-help_text:
-type: telprefix
-pattern: '[0-9]{8,40}'
-pattern_hint: 'This field allows digits only. Min 8 digits. Max 40 digits.'
-maxlength: 40
-api_name: mobilePhone
-api_object: contactPerson

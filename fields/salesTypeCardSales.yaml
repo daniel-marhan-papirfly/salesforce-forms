@@ -1,6 +1,0 @@
-id: salesTypeCardSales
-label: 'Card Sales'
-help_text:
-type: hidden
-api_name: cardSales
-api_object: salesType

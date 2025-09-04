@@ -1,9 +1,0 @@
-id: contactPersonLastName
-label: 'Last name'
-help_text:
-type: textfield
-pattern: '^[^\d]{0,80}$'
-pattern_hint: 'No digits allowed. Max 80 characters.'
-maxlength: 80
-api_name: lastName
-api_object: contactPerson

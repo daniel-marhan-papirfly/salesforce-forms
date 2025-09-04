@@ -1,6 +1,0 @@
-id: companyCompanyNumber
-label: 'Organization number'
-help_text:
-type: number
-api_name: companyNumber
-api_object: company
