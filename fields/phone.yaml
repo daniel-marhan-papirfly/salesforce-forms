@@ -1,0 +1,7 @@
+id: phone
+label: 'Phone'
+help_text:
+type: telprefix
+pattern: '[0-9\(\)\-\+\s]'
+api_name: phone
+#api_object: company

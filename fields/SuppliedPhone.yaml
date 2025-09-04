@@ -1,0 +1,7 @@
+id: quick_phone
+label: 'Quick Phone'
+help_text:
+type: telprefix
+pattern: '[0-9\(\)\-\+\s]'
+api_name: SuppliedPhone
+#api_object: company
