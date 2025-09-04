@@ -1,5 +1,6 @@
 id: datetime_of_1st_occurence
 label: 'Date/Time of 1st Occurrence'
+pattern_hint: 'Must be 24h time, eg.: 23:45'
 type: datetime
 submit_format: 'c'
 api_name: datetime_of_1st_occurence
