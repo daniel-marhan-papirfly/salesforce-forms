@@ -24,8 +24,6 @@ fields:
   case_subcategory:
     required: TRUE
     default_value: 'Receipt request'
-  datetime_of_1st_occurence:
-    required: true
   customer_type:
     required: TRUE
     default_value: 'B2C'
