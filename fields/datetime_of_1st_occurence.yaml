@@ -9,4 +9,4 @@ placeholder: '00:00'
 # mask: '00{:}00'
 # mask_placeholder: '00:00'
 api_name: datetime_of_1st_occurence
-data-api-object: 'orderCase'
+api_object: 'orderCase'
