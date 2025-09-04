@@ -1,9 +1,12 @@
 id: datetime_of_1st_occurence
 label: 'Date/Time of 1st Occurrence'
-pattern: '^(0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$'
-pattern_hint: 'Must be 24h time, eg.: 23:45'
+help_text:
 type: datetime
 submit_format: 'c'
+pattern: '^(0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$'
+pattern_hint: 'Must be 24h time, eg.: 23:45'
+placeholder: '00:00'
+# mask: '00{:}00'
+# mask_placeholder: '00:00'
 api_name: datetime_of_1st_occurence
 data-api-object: ''
-data-api-name: datetime_of_1st_occurence
