@@ -4,4 +4,3 @@ type: textfield
 api_name: station
 pattern: '^.*?\((\d+)\).*$'
 pattern_hint: 'Please select station name from the list'
-pattern_browser_only: TRUE
