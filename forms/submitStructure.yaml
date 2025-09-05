@@ -7,6 +7,7 @@ genericCase:
   quick_phone: ""
   case_category: ""
   case_subcategory: ""
+  datetime_of_1st_occurence: ""
   customer_type: ""
   case_number: ""
   station: ""
