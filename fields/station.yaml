@@ -1,10 +1,4 @@
 id: station
 label: 'Station'
 type: textfield
-autocomplete_route_name: ck_form.autocomplete.stations
-validation:
-  autocompleteId: TRUE
-pattern_browser_only: TRUE
-pattern: '^.*?\((\d+)\).*$'
-pattern_hint: 'Please select station name from the list'
 api_name: station
