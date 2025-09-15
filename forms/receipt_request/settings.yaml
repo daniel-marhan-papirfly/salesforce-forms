@@ -37,3 +37,4 @@ fields:
     required: TRUE
     default_value: 'Web'
   terms_of_use:
+    markup: '<a href="https://www.circlek.com/terms-of-use" target="_blank">Terms of Use</a>'
