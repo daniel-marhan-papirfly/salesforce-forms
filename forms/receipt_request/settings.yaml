@@ -36,3 +36,4 @@ fields:
   case_origin:
     required: TRUE
     default_value: 'Web'
+  terms_of_use:

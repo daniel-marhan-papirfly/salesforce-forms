@@ -1,4 +1,4 @@
 id: quick_email
-label: 'Quick Email'
+label: 'Email'
 type: email
 api_name: quick_email

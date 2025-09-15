@@ -1,5 +1,5 @@
 id: quick_name
-label: 'Quick Name'
+label: 'Name'
 type: textfield
 maxlength: 80
 api_name: quick_name

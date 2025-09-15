@@ -1,5 +1,5 @@
 id: datetime_of_1st_occurence
-label: 'Date/Time of 1st Occurrence'
+label: 'Date/Time of Purchase'
 help_text:
 type: datetime
 submit_format: 'c'

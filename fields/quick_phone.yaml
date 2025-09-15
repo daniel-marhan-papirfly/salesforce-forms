@@ -1,4 +1,4 @@
 id: quick_phone
-label: 'Quick Phone'
+label: 'Phone'
 type: tel
 api_name: quick_phone
