@@ -32,7 +32,7 @@ fields:
     required: TRUE
     default_value: 'B2C'
   case_number:
-    required: true
+    required: false
   station:
     required: true
   item2:

@@ -1,4 +1,4 @@
 id: case_number
 label: 'Case Number'
-type: textfield
+type: hidden
 api_name: case_number
