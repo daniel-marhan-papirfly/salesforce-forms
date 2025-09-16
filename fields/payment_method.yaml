@@ -1,4 +1,4 @@
-id: orderCasePaymentMethod
+id: payment_method
 label: 'Payment method'
 help_text: ''
 type: radios
