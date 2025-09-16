@@ -46,6 +46,7 @@ fields:
 #      'Cash': 189
 #      'Card': 27
   amount:
+    required: TRUE
   first_6_digits:
     required: TRUE
     visibility:
