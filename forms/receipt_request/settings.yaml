@@ -24,6 +24,8 @@ fields:
   case_subcategory:
     required: TRUE
     default_value: 'Receipt request'
+  item1:
+    markup: 'Purchase details'
   datetime_of_1st_occurence:
     required: true
   customer_type:
@@ -33,6 +35,16 @@ fields:
     required: true
   station:
     required: true
+  item2:
+    markup: 'Payment information'
+  paymentMethod:
+    required: TRUE
+    values:
+      'Cash': 'Cash'
+      'Card': 'Card'
+    icons:
+      'Cash': 189
+      'Card': 27
   case_origin:
     required: TRUE
     default_value: 'Web'

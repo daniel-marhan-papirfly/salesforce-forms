@@ -1,0 +1,5 @@
+id: terms_of_use
+type: item
+markup: '<a href="https://www.circlek.com/privacy-policy" target="_blank">Privacy Policy</a>'
+api_name: null
+api_object: null

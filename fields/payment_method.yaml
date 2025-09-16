@@ -1,0 +1,9 @@
+id: orderCasePaymentMethod
+label: 'Payment method'
+help_text: ''
+type: radios
+widget: icons
+values:
+  Cash: Cash
+  Card: Card
+api_name: payment_method
