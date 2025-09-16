@@ -1,0 +1,7 @@
+id: amount
+label: 'Amount'
+help_text:
+type: number
+min: 0.01
+step: 0.01
+api_name: amount

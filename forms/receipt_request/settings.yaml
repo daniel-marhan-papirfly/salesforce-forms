@@ -45,6 +45,9 @@ fields:
 #    icons:
 #      'Cash': 189
 #      'Card': 27
+  amount:
+    required:
+      ':input[data-id="payment_method"]': { value: 'Card' }
   case_origin:
     required: TRUE
     default_value: 'Web'
