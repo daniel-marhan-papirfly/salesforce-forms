@@ -14,8 +14,8 @@ genericCase:
   case_origin: ""
   payment_method: ""
   amount: ""
-  first_6_digits: ""
-  last_4_digits: ""
+  First_6_digits_of_card__c: ""
+  Last_4_digits_of_card__c: ""
 genericLead:
   leadFormName: ''
   utmSource: ''
