@@ -2,4 +2,4 @@ id: first_6_digits
 label: 'First 6 digits of your card number'
 help_text: 'Please enter the first 6 digits of your card number.'
 type: number
-api_name: First_6_digits_of_card__c
+api_name: first_6_digits

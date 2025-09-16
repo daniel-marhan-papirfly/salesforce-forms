@@ -2,4 +2,4 @@ id: last_4_digits
 label: 'Last 4 digits of your card number'
 help_text: 'Please enter the last 4 digits of your card number.'
 type: number
-api_name: Last_4_digits_of_card__c
+api_name: last_4_digits
