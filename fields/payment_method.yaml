@@ -2,7 +2,7 @@ id: payment_method
 label: 'Payment method'
 help_text: ''
 type: radios
-widget: icons
+#widget: icons
 values:
   Cash: Cash
   Card: Card

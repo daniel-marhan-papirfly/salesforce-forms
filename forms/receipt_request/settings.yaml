@@ -42,9 +42,9 @@ fields:
     values:
       'Cash': 'Cash'
       'Card': 'Card'
-    icons:
-      'Cash': 189
-      'Card': 27
+#    icons:
+#      'Cash': 189
+#      'Card': 27
   case_origin:
     required: TRUE
     default_value: 'Web'
