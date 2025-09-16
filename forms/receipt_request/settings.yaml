@@ -50,11 +50,11 @@ fields:
   first_6_digits:
     required: TRUE
     visibility:
-      ':input[data-id="orderCasePaymentMethod"]': { value: 'Card' }
+      ':input[data-id="payment_method"]': { value: 'Card' }
   last_4_digits:
     required: TRUE
     visibility:
-      ':input[data-id="orderCasePaymentMethod"]': { value: 'Card' }
+      ':input[data-id="payment_method"]': { value: 'Card' }
   case_origin:
     required: TRUE
     default_value: 'Web'
