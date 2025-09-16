@@ -12,10 +12,6 @@ genericCase:
   case_number: ""
   station: ""
   case_origin: ""
-  payment_method: ""
-  amount: ""
-  first_6_digits: ""
-  last_4_digits: ""
 genericLead:
   leadFormName: ''
   utmSource: ''
