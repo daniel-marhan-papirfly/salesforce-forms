@@ -37,7 +37,7 @@ fields:
     required: true
   item2:
     markup: 'Payment information'
-  paymentMethod:
+  payment_method:
     required: TRUE
     values:
       'Cash': 'Cash'
