@@ -50,3 +50,5 @@ fields:
     default_value: 'Web'
   terms_of_use:
     markup: '<a href="https://www.circlek.com/terms-of-use" target="_blank">Terms of Use</a>'
+  privacy_policy:
+    markup: '<a href="https://www.circlek.com/privacy-policy" target="_blank">Privacy Policy</a>'
