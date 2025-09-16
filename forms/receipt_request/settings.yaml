@@ -31,8 +31,6 @@ fields:
   customer_type:
     required: TRUE
     default_value: 'B2C'
-  case_number:
-    required: false
   station:
     required: true
   item2:
@@ -62,3 +60,5 @@ fields:
     markup: '<a href="https://www.circlek.com/terms-of-use" target="_blank">Terms of Use</a>'
   privacy_policy:
     markup: '<a href="https://www.circlek.com/privacy-policy" target="_blank">Privacy Policy</a>'
+  case_number:
+    required: false
