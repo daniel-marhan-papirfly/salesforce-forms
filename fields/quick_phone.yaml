@@ -1,4 +1,9 @@
 id: quick_phone
 label: 'Phone'
-type: tel
+help_text: 'Please enter your phone number.'
+type: telprefix
+pattern: '[0-9]{8,40}'
+pattern_hint: 'This field allows digits only. Min 8 digits. Max 40 digits.'
+maxlength: 50
+telprefix_prefix_by_field: legal_country_code
 api_name: quick_phone
