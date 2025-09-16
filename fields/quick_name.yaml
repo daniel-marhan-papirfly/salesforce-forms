@@ -1,5 +1,7 @@
 id: quick_name
 label: 'Name'
 type: textfield
-maxlength: 80
+pattern: '^[^\d]{0,40}$'
+pattern_hint: 'No digits allowed. Max 40 characters.'
+maxlength: 40
 api_name: quick_name

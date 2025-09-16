@@ -16,8 +16,12 @@ fields:
     required: true
   quick_email:
     required: true
+  countryCode:
+    not_submittable: TRUE
+    default_value: 'US'
   quick_phone:
-    required: true
+    required: TRUE
+    telprefix_prefix_by_field: countryCode # countryCode
   case_category:
     required: TRUE
     default_value: 'Station'

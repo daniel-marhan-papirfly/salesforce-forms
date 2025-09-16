@@ -1,0 +1,10 @@
+# Used in the Web to Lead, Bulk Admin, Bulk Administration forms to set the country code for the 'telprefix' field.
+# This country code will be used to set the prefix field with a default value based on countryCode.
+# Default value is set in overrides/ folder for every country.
+id: countryCode
+label: 'Country code'
+help_text: ''
+type: hidden
+not_submittable: TRUE
+api_name: null
+api_object: null
