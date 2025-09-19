@@ -65,4 +65,3 @@ fields:
   privacy_policy:
     markup: '<a href="https://www.circlek.com/privacy-policy" target="_blank">Privacy Policy</a>'
   case_number:
-    required: false
