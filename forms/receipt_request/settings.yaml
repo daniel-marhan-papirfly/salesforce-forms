@@ -65,4 +65,4 @@ fields:
   privacy_policy:
     markup: '<a href="https://www.circlek.com/privacy-policy" target="_blank">Privacy Policy</a>'
   case_number:
-    default_value: "CN_{{timestamp}}_{{random_string}}"
+    default_value: "CN_[date:raw]_[random:number]"
