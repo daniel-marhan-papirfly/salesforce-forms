@@ -1,4 +1,5 @@
 id: case_number
-label: 'Case Number'
-type: textfield
+label: ''
+type: hidden
 api_name: case_number
+default_value: "CN_{{timestamp}}_{{random_string}}"
