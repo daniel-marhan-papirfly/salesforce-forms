@@ -7,7 +7,7 @@ pattern: '^(0?[1-9]|1[0-2]):[0-5][0-9]\s?(am|pm|AM|PM)$'
 pattern_hint: 'Must be 12h time with a.m./p.m., eg.: 11:45 AM or 2:30 pm'
 placeholder: '12:00 AM'
 max: 'now'
-default_value: null
+default_value: '11:00 AM'
 # mask: '00{:}00'
 # mask_placeholder: '00:00'
 api_name: datetime_of_1st_occurence
