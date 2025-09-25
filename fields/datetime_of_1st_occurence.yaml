@@ -6,6 +6,7 @@ submit_format: 'c'
 pattern: '^(?:0?[1-9]|1[0-2]):[0-5][0-9](?::[0-5][0-9])?\s?(?:a\.m\.|p\.m\.)$'
 pattern_hint: 'Must be 12h time, eg.: 11:45 AM'
 placeholder: '00:00'
+max: 'now'
 # mask: '00{:}00'
 # mask_placeholder: '00:00'
 api_name: datetime_of_1st_occurence
