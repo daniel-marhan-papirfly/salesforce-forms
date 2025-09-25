@@ -8,3 +8,4 @@ type: hidden
 not_submittable: TRUE
 api_name: null
 api_object: null
+default_value: 'US'
