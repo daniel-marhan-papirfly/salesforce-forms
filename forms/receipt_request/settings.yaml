@@ -38,7 +38,7 @@ fields:
   station:
     required: true
   item2:
-    markup: 'Payment information'
+    markup: 'Payment information.'
   payment_method:
     required: TRUE
     values:
