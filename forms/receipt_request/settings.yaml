@@ -21,7 +21,7 @@ fields:
     default_value: 'US'
   quick_phone:
     required: TRUE
-    #telprefix_prefix_by_field: countryCode # countryCode
+    telprefix_prefix_by_field: 'US'
   case_category:
     required: TRUE
     default_value: 'Station'
