@@ -29,7 +29,7 @@ fields:
     required: TRUE
     default_value: 'Receipt request'
   item1:
-    markup: 'Purchase details'
+    markup: 'Purchase details 1'
   datetime_of_1st_occurence:
     required: true
   customer_type:
