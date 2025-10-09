@@ -21,7 +21,8 @@ fields:
     default_value: 'US'
   quick_phone:
     required: TRUE
-    telprefix_prefix_by_field: countryCode
+    prefix:
+      default_value: '+1'
   case_category:
     required: TRUE
     default_value: 'Station'
@@ -29,7 +30,7 @@ fields:
     required: TRUE
     default_value: 'Receipt request'
   item1:
-    markup: 'Purchase details 1'
+    markup: 'Purchase details'
   datetime_of_1st_occurence:
     required: true
   customer_type:
