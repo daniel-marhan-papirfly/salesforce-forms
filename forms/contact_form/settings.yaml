@@ -23,7 +23,6 @@ fields:
     required: false
     label: 'Phone Number'
     help_text: 'Enter your phone number'
-    telprefix_prefix_by_field: countryCode
   company:
     type: 'textfield'
     required: false
